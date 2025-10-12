@@ -34,8 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshiunique&" alt="priyanshiunique" /></p>
 
 
-<h2 align="left">Connect with me :) </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/priyanshi-sahu-3a7544281) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ps8107750@gmail.com)
 
 
