@@ -1,4 +1,4 @@
-<h1 align="center">Hey!👋, I'am  Priyanshi</h1>
+<h1 align="center">Hey!👋, I'am  Priyanshi Sahu </h1>
 
 
 - 💻 Building dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js).
