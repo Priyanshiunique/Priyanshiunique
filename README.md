@@ -1,6 +1,6 @@
 <h1 align="center">Hey!👋, I'am  Priyanshi Sahu </h1>
 
-
+- 📊 BTech in Computer Science And Engineering.
 - 💻 Building dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js).
 - ✅ AI Enthusiast  
 - 🐉 Passionate about coding in C++ and Python.
