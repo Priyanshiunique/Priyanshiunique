@@ -2,7 +2,7 @@
 
 
 - 💻 Building dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js).
--  AI Enthusiast ✅ 
+- ✅ AI Enthusiast  
 - 🐉 Passionate about coding in C++ and Python.
 - 📊 Also focussed on improving my `Data Structures and Algorithms and Problem-Solving Skills`.
 - 🧠 Strong foundation in CS fundamentals: OOP, OS, DBMS, and more.
