@@ -37,11 +37,11 @@
 
 <h2 align="left">✨ Projects</h2>
 
-1. **🍳 AIChef** – AI-powered recipe generation platform built with Next.js, Neon PostgreSQL, and Strapi CMS that creates recipes from users' pantry inventory.
+1. **[🍳 AIChef](https://keshf-aichef.netlify.app/)** – AI-powered recipe generation platform built with Next.js, Neon PostgreSQL, and Strapi CMS that creates recipes from users' pantry inventory.
 
-2. **💪 FitBody** – Full-stack fitness tracking application built with React, Node.js, Express.js, and MongoDB for workout and progress management.
+2. **[💪 FitBody](https://fit-body-delta.vercel.app/)** – Full-stack fitness tracking application built with React, Node.js, Express.js, and MongoDB for workout and progress management.
 
-3. **🏥 DocAtHome** – Full-stack MERN platform that connects patients with healthcare professionals for on-demand in-home medical services.
+3. **[🏥 DocAtHome](https://docathome-rajnandini.netlify.app/)** – Full-stack MERN platform that connects patients with healthcare professionals for on-demand in-home medical services.
    
 <br>
 
