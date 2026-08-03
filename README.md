@@ -1,11 +1,14 @@
 <h1 align="center">Hey!👋, I'am  Priyanshi Sahu </h1>
 
+<h2 align="left"> 📊 About </h2>
+
 - 📊 BTech in Computer Science And Engineering.
 - 💻 Building dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js).
 - ✅ AI Enthusiast  
 - 🐉 Passionate about coding in C++ and Python.
 - 📊 Also focussed on improving my `Data Structures and Algorithms and Problem-Solving Skills`.
 - 🧠 Strong foundation in CS fundamentals: OOP, OS, DBMS, and more.
+- Looking for full-time and intern opportunities.
 
 <br>
 
@@ -31,7 +34,9 @@
 <br>
 <br>
 
+<h2 align="left"> 🌟 Open Source Contribution </h2>
 
+<h3 align="left"> Hacktoberfest Event </h3>
 
 [![An image of @priyanshiunique's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshiunique)](https://holopin.io/@priyanshiunique)
 
