@@ -34,6 +34,19 @@
 <br>
 <br>
 
+
+<h2 align="left"> ✨ Projects : </h2>
+1. **AIChef**
+  - Developed a full-stack AI platform using Next.js, Neon, and Strapi CMS that generates custom recipes based on real-time 
+pantry inventory.
+
+ 2. **FitBody**
+   - A fitness tracking web application built with React, Node.js, Express, and MongoDB.
+   - Features: Workout tracking, progress monitoring, authentication, and responsive UI.
+   
+<br>
+
+
 <h2 align="left"> 🌟 Open Source Contribution </h2>
 
 <h3 align="left"> Hacktoberfest Event </h3>
