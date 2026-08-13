@@ -58,9 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshiunique&" alt="priyanshiunique" /></p>
 
-## Contact me : 
-- Phone : +91 9219308810
-- email : ps8107750@gmail.com
+
 
 
 
