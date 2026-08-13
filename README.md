@@ -12,12 +12,6 @@
 
 <br>
 
-<h2 align="left">🚀Coding Profile : </h2>
-
-- LeetCode: https://leetcode.com/u/priyanshi4263/
-- Hackerrank: https://www.hackerrank.com/profile/2k23_cs2313969
-
-<br>
 
 <h2 align="left">🚀Tech Stack : </h2>
 
